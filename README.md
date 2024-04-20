@@ -2,9 +2,11 @@
 ### Hello! 👋
 Welcome to my GitHub profile! I'm a 4th-year Computer Engineering student with a deep interest in machine learning, cryptography, and distributed systems.
 
-Here, you'll find a collection of repositories that showcase projects from my academic coursework over the past two years. My pinned projects include "P2P-Network-Model", "MorseCodeGame", and "TravelMate", all developed last year at my home university, Trinity College Dublin. Additionally, "TrainBookingApp", "computer-vision", and "CTF-report" were completed during my current exchange at KU Leuven, as part of their Master's program in Computer Science.
+As a passionate developer, I like to develop simple side projects to demonstrate my ideas whenever I think of a feature for one of my favourite platforms. One I'm currently highlighting is "Star Players," a feature designed to reduce playlist redundancy in digital music platforms by allowing users to dynamically manage their favorite tracks. Feel free to check it out in my pins below!
 
-With one more year until I graduate with a Master's degree in Computer Engineering, I'm eager to gain more practical experience. I'm open to both small-scale projects and open-source contributions, as well as more significant internship opportunities. Feel free to reach out with any ideas or opportunities!
+There, you'll also find a collection of repositories that showcase projects from my academic coursework over the past two years. My pinned projects include "P2P-Network-Model" and "TravelMate", each developed last year at my home university, Trinity College Dublin. Additionally, "TrainBookingApp", "computer-vision", and "CTF-report" were completed during my current exchange at KU Leuven, as part of their Master's program in Computer Science.
+
+With one more year until I graduate with a Master's degree in Computer Engineering, I'm eager to gain more practical experience. I'm open to both small-scale projects and open-source collaborations, as well as more significant internship opportunities. Feel free to reach out with any ideas or opportunities!
 
 Looking forward to collaborating with you!
 
