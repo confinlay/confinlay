@@ -1,4 +1,12 @@
-### Hi there 👋
+
+### Hello! 👋
+Welcome to my GitHub profile! I'm a 4th-year Computer Engineering student with a deep interest in machine learning, cryptography, and distributed systems.
+
+Here, you'll find a collection of repositories that showcase projects from my academic coursework over the past two years. My pinned projects include "P2P-Network-Model", "MorseCodeGame", and "TravelMate", all developed last year at my home university, Trinity College Dublin. Additionally, "TrainBookingApp", "computer-vision", and "CTF-report" were completed during my current exchange at KU Leuven, as part of their Master's program in Computer Science.
+
+With one more year until I graduate with a Master's degree in Computer Engineering, I'm eager to gain more practical experience. I'm open to both small-scale projects and open-source contributions, as well as more significant internship opportunities. Feel free to reach out with any ideas or opportunities!
+
+Looking forward to collaborating with you!
 
 <!--
 **confinlay/confinlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
