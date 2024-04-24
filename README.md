@@ -7,9 +7,6 @@ A project I'm currently highlighting here is ["Star Players"](https://confinlay.
 In my pinned repos, you'll also find a collection of repositories that showcase projects from my academic coursework over the past two years. My projects include a [peer to peer network model](https://github.com/confinlay/P2P-Network-Model), a [travel app](https://github.com/confinlay/TravelMate), and a [morse code game](https://github.com/confinlay/MorseCodeGame) played on an arduino microcontroller, all developed last year at my home university, Trinity College Dublin. Additionally, I completed a distributed [train booking system](https://github.com/confinlay/TrainBookingApp), a [short video](https://github.com/confinlay/computer-vision) demonstrating computer vision techniques, and a [CTF-style hacking project](https://github.com/confinlay/CTF-report) during my current exchange at KU Leuven, as part of their Master's program in Computer Science.
 
 With one more year until I graduate with a Master's degree in Computer Engineering, I'm eager to gain more practical experience. I'm open to both small-scale projects and open-source collaborations, as well as more significant internship opportunities. Feel free to reach out with any ideas or opportunities!
-
-Looking forward to collaborating with you!
-
 <!--
 **confinlay/confinlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
