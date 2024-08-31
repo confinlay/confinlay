@@ -1,6 +1,6 @@
 
 ### Hello! 👋
-Welcome to my GitHub profile! I'm a 4th-year Computer Engineering student with a deep interest in machine learning, cryptography, and distributed systems.
+Welcome to my GitHub profile! I'm a final year Computer Engineering master's student with a deep interest in machine learning, cryptography, and distributed systems.
 
 A project I'm currently highlighting here is ["Star Players"](https://confinlay.github.io/home/), a feature idea I had which aims to reduce playlist redundancy in digital music platforms by allowing users to dynamically manage their favorite tracks. Feel free to take a look by clicking on the link above, or check out the repo [here](https://github.com/confinlay/confinlay.github.io)!
 
