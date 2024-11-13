@@ -16,7 +16,7 @@ I am graduating in 2025 and am actively seeking roles as an AI Research Engineer
 
 ## Contact Details
 - **Email**: conorfin02@icloud.com
-- **LinkedIn**: https://linkedin.com/in/confinlay
+- **LinkedIn**: https://linkedin.com/in/conorfinlay
 <!--
 **confinlay/confinlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
