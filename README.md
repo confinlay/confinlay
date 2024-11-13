@@ -1,12 +1,22 @@
+# Hello! 👋
 
-### Hello! 👋
-Welcome to my GitHub profile! I'm a final year Computer Engineering master's student with a deep interest in machine learning, cryptography, and distributed systems.
+Welcome to my GitHub profile! I'm a final-year Computer Engineering master's student with startup experience and a strong interest in AI research.
 
-A project I'm currently highlighting here is ["Star Players"](https://confinlay.github.io/home/), a feature idea I had which aims to reduce playlist redundancy in digital music platforms by allowing users to dynamically manage their favorite tracks. Feel free to take a look by clicking on the link above, or check out the repo [here](https://github.com/confinlay/confinlay.github.io)!
+## Research Focus
 
-In my pinned repos, you'll also find a collection of repositories that showcase projects from my academic coursework over the past two years. My projects include a [peer to peer network model](https://github.com/confinlay/P2P-Network-Model), a [travel app](https://github.com/confinlay/TravelMate), and a [morse code game](https://github.com/confinlay/MorseCodeGame) played on an arduino microcontroller, all developed last year at my home university, Trinity College Dublin. Additionally, I completed a distributed [train booking system](https://github.com/confinlay/TrainBookingApp), a [short video](https://github.com/confinlay/computer-vision) demonstrating computer vision techniques, and a [CTF-style hacking project](https://github.com/confinlay/CTF-report) during my current exchange at KU Leuven, as part of their Master's program in Computer Science.
+I am currently doing research into Bayesian deep learning, focusing on interpreting the uncertainty estimates provided by Bayesian Neural Networks. I am working on leveraging Hybrid Bayesian Neural Networks to make an existing method of explaining uncertainty far more performant. You can observe my progress on this here: [Hybrid-CLUE repository](https://github.com/confinlay/Hybrid-CLUE)
 
-With one more year until I graduate with a Master's degree in Computer Engineering, I'm eager to gain more practical experience. I'm open to both small-scale projects and open-source collaborations, as well as more significant internship opportunities. Feel free to reach out with any ideas!
+## Projects
+
+In my other pinned repositories, you'll find projects I've completed as part of my university coursework over the years, including work on distributed systems, machine learning, and embedded systems.
+
+## Future Opportunities
+
+I am graduating in 2025 and am actively seeking roles as an AI Research Engineer/Software Engineer, whether it be full-time positions, internships, or short-term research roles. Feel free to reach out!
+
+## Contact Details
+- **Email**: conorfin02@icloud.com
+- **LinkedIn**: https://linkedin.com/in/confinlay
 <!--
 **confinlay/confinlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
