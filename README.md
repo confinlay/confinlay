@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a final-year Computer Engineering master's stu
 
 ## Research Focus
 
-I am currently doing research into Bayesian deep learning, focusing on interpreting the uncertainty estimates provided by Bayesian Neural Networks. I am working on leveraging Hybrid Bayesian Neural Networks to make an existing method of explaining uncertainty far more performant. You can observe my progress on this here: [Hybrid-CLUE repository](https://github.com/confinlay/Hybrid-CLUE)
+I am currently doing research into Bayesian deep learning, focusing on interpreting the uncertainty estimates provided by Bayesian Neural Networks. I am working on leveraging Last-layer Bayesian Neural Networks to make an existing method of explaining uncertainty far more performant. You can observe my progress on this here: [Last-layer CLUE repository](https://github.com/confinlay/Last-layer-CLUE)
 
 ## Projects
 
